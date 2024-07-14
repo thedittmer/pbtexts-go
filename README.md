@@ -1,4 +1,4 @@
-# Extend PocketBase with Go To Send A Text Message
+# Extend PocketBase with Go To Send Text Messages
 
 With a little bit of Go code and the Twilio Go Package we can send text messages with PocketBase.
 
