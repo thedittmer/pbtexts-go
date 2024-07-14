@@ -1,8 +1,4 @@
 *
 !.gitignore
 !main.go
-go.mod
-go.sum
-main.go
-pb_data/data.db
-pb_data/logs.db
+!README.md
