@@ -2,7 +2,7 @@
 
 With a little bit of Go code and the Twilio Go Package we can send text messages with PocketBase.
 
-Don't forget to [install Go first](https://go.dev/doc/install) first.
+Don't forget to [install Go](https://go.dev/doc/install) first.
 
 Next, download this project and run this
 ```bash
@@ -23,10 +23,10 @@ See [PocketBase Docs](https://pocketbase.io/docs/go-overview/) for more informat
 
 ## Texts Collection
 
-Now create a new collection in PocketBase for the text messages. It should have a text field called to, and a text field called message.
+Now create a new collection called texts in PocketBase for the text messages. It should have a text field called to, and a text field called message.
 
 Finally, create a new record to send a text message.
 
 ## SvelteKit Front End UI
 
-[Also checkout this simple user interface made with SvelteKit.]()
+[Also checkout this simple user interface made with SvelteKit.](https://github.com/thedittmer/pbtexts)
